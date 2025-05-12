@@ -1,0 +1,2 @@
+# Emotionaldetection
+To detect emotional
